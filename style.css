@@ -153,6 +153,7 @@ fieldset{
     height: 18px;
     width: 18px;
     accent-color: var(--primary-color);
+    cursor: pointer;
 }
 .stay-login label{
     font-size: var(--optional-text);
@@ -165,6 +166,7 @@ fieldset{
     line-height: 22px;
     color: var(--primary-color);
     font-weight: var(--regular);
+    cursor: pointer;
 }
 .signup-box{
     display: flex;
@@ -179,4 +181,5 @@ fieldset{
     background-color: var(--primary-color);
     border-radius: 9px;
     border: none;
+    cursor: pointer;
 }
