@@ -7,8 +7,8 @@
 }
 :root{
     /* colors variable */
-    --primary-color: #2563EB;
-    /* --primary-color: rgb(228, 39, 149); */
+    /* --primary-color: #2563EB; */
+    --primary-color: rgb(240, 74, 171);
     --black-body-background: #1E1E1E;
     --description-color: #CBD5E1;
     --white-background: #F8FAFC;
